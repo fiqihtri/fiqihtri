@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fiqih Tri
-- 👀 I’m interested in Website Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java Script
 - 📫 How to reach me fiqihtrieko@gmail.com
 
