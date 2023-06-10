@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fiqih Tri
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning Java Script, React Native, and Next JS
 - 📫 How to reach me fiqihtrieko@gmail.com
 
 <!---
