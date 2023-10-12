@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Fiqih Tri
 - 👀 I’m interested in Front-End Developer
-- 🌱 I’m currently learning Java Script, React Native, and Next JS
+- 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJs, React Native, TypeScript, NextJs, Bootsrap, SASS, NodeJs, MySql
 - 📫 How to reach me fiqihtrieko@gmail.com
+- 💻 My LinkedIn: https://www.linkedin.com/in/fiqihtrieko/
+
+
 
 <!---
 fiqihtri/fiqihtri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
