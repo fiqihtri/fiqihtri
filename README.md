@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fiqih Tri
 - 👀 I’m interested in Front-End Developer
-- 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJs, React Native, TypeScript, NextJs, Bootstrap, Tailwind, SASS, NodeJs, Atom, MySql
+- 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJs, TypeScript, NextJs, Bootstrap, Tailwind, SASS, NodeJs, MySql
 - 📫 How to reach me fiqihtrieko@gmail.com
 - 💻 My LinkedIn: https://www.linkedin.com/in/fiqihtrieko/
 
